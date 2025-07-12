@@ -29,11 +29,6 @@ while shouldContinue:
         print("You can do it, try harder n try changing range")
 
 
-
-
-
-
-
 # things to improve
 
 # 🔧 Tiny Improvement (Optional):
